@@ -6,7 +6,7 @@ AI-powered **Q&A system** for Codebasics e-learning, enabling instant answers to
 - **ChatGoogleGenerativeAI** – Natural language understanding  
 - **Langchain** – AI workflow management  
 - **Streamlit** – Web interface  
-- **FAISS** – Fast vector-based knowledge retrieval  
+- **FAISS** – Fast vector-based knowledge retrieval   
 - **Huggingface Instructor Embeddings** – Text embeddings for knowledge base   
 - **Python CSV** – Load real FAQ data  
 
