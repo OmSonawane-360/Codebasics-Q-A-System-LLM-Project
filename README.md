@@ -8,7 +8,7 @@ AI-powered **Q&A system** for Codebasics e-learning, enabling instant answers to
 - **Streamlit** – Web interface  
 - **FAISS** – Fast vector-based knowledge retrieval   
 - **Huggingface Instructor Embeddings** – Text embeddings for knowledge base   
-- **Python CSV** – Load real FAQ data  
+- **Python CSV** – Load real FAQ data   
  
 ## ✨ Features
 - 💬 Instant answers to course queries  
