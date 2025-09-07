@@ -17,4 +17,3 @@ AI-powered **Q&A system** for Codebasics e-learning, enabling instant answers to
 - 👥 Reduces support staff workload  
 - ⚡ Fast retrieval from large datasets  
 
-## ⚡ Installation
