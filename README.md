@@ -2,7 +2,7 @@
 
 AI-powered **Q&A system** for Codebasics e-learning, enabling instant answers to learners' course-related queries.
 
-## 🚀 Technologies
+## 🚀 Technologies 
 - **ChatGoogleGenerativeAI** – Natural language understanding  
 - **Langchain** – AI workflow management  
 - **Streamlit** – Web interface  
